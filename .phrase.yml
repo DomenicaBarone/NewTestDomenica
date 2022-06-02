@@ -7,7 +7,7 @@ phrase:
     - file: en.json
       params:
         file_format: simple_json
-        locale_id: dfafda8948854e6feb81f5f86943fb6a
+        locale_id: en
         update_translations: true 
         
   
