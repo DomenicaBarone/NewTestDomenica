@@ -1,0 +1,26 @@
+{
+  "another_test_ebb905": "Another test.",
+  "Banking.AccessError.Many": {
+    "one": "Your access code is wrong. One try left.",
+    "other": "Your access code is wrong. Many ties left.",
+    "zero": "Your access code is wrong. No tries left."
+  },
+  "datei.hochladen": "Please upload at least {amount, plural, one {das erste Fahrzeugbild} other {die ersten {amount} Fahrzeugbilder}} .",
+  "email.reset_password.email": "Reset password",
+  "file.upload.photos": {
+    "one": null,
+    "other": null,
+    "zero": null
+  },
+  "hpCalendar_hpProfile_location_setSites": "Add & Configure sites",
+  "i.love.testing": {
+    "one": "This test has one result",
+    "other": "This test has many results",
+    "zero": "This test has no results"
+  },
+  "keeeeeeeey.test": "Please upload at least {amount, plural, one{foto} other  {fotos}} .",
+  "test_ahahaha.test": "Test 12 34",
+  "test.test.test.test.test123": "Select {count} {count, plural,\none {item}\nother {items}\n}",
+  "this_is_a_test_591b69": "This is a test.aaaaaaaaaaa",
+  "This.is.a.test.key": "This is a test.<ReadMoreLink>Link</ReadMoreLink>aaaaaaaaaaaaa"
+}
